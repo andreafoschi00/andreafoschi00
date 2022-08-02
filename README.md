@@ -85,13 +85,15 @@ Here are some ideas to get you started:
 
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<div><br></div>
 
 ## My Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=andreafoschi00&show_icons=true&count_private=true&theme=radical&hide_border=true" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreafoschi00&hide_border=true&layout=compact&theme=radical" align="left" width="35%">
+  <img src="https://github-readme-stats.vercel.app/api?username=andreafoschi00&show_icons=true&count_private=true&theme=radical&hide_border=true" align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreafoschi00&hide_border=true&layout=compact&theme=radical" align="left">
 </div>
+<br /><br /><br /><br /><br /><br /><br /><br />
 
 ## Future learing & goals
 
