@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=andreafoschi00&show_icons=true&count_private=true&theme=radical&hide_border=true" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreafoschi00&hide_border=true&layout=compact&theme=radical" align="left" width="41%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreafoschi00&hide_border=true&layout=compact&theme=radical" align="left" width="35%">
 </div>
 
 ## Future learing & goals
