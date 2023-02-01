@@ -4,7 +4,7 @@ I'm Andrea Foschi, i'm currenlty studying Science and Computer Engeneering at Un
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Booking Resturant App](https://github.com/andreafoschi00/Sistema-di-prenotazione)
+- 🔭 I’m currently working on [almaclass](https://github.com/andreafoschi00/almaclass)
 - 🌱 I’m currently learning MERN solution stack (MongoDB, Express.js, React.js, Node.js)
 - 📫 My personal email: andrea.foschi756@gmail.com
 - 🗣 I speak Italian and English (B2 level).
