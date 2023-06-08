@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Andrea Foschi, i graduated in Computer and Science Engeneering at University and I work as Software Engeneer at Twinlogix [My working account](https://github.com/afoschi00).
+I'm Andrea Foschi, i graduated in Computer and Science Engeneering at University and I work as Software Engeneer at Twinlogix. See more details in [My working account](https://github.com/afoschi00).
 
 # My skills and interests
 
