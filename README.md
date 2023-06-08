@@ -1,13 +1,6 @@
 ### Hi there 👋
 
-I'm Andrea Foschi, i'm currenlty studying Science and Computer Engeneering at University of Bologna, Italy.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on [almaclass](https://github.com/andreafoschi00/almaclass)
-- 🌱 I’m currently learning MERN solution stack (MongoDB, Express.js, React.js, Node.js)
-- 📫 My personal email: andrea.foschi756@gmail.com
-- 🗣 I speak Italian and English (B2 level).
+I'm Andrea Foschi, i graduated in Computer and Science Engeneering at University and I work as Software Engeneer at Twinlogix [My working account](https://github.com/afoschi00).
 
 # My skills and interests
 
